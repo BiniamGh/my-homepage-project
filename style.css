@@ -1,0 +1,105 @@
+
+body
+{
+    
+    position: relative;
+    text-align: center;
+    color: white;
+}
+h1 {
+
+    position: absolute;
+    width: 201px;
+    height: 34px;
+    left: 550px;
+    top: 175px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 33px;
+    text-align: center;
+    width: 15%;
+    
+    margin: 0 auto;
+    color: white;
+    background-color: navy;
+    border-radius: 10px;
+   
+   
+   
+}
+h2{
+    position: absolute;
+    width: 355px;
+    height: 39px;
+    left: 400px;
+    top: 200px;
+
+   font-family: 'Arial';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 38px;
+   text-align: center;
+   color: white; 
+   width: 40%;
+   margin: 1em auto;
+   background-color: #457B9D;
+   border-radius: 10px;
+     
+}
+
+h3{
+color:#1D3557;
+}
+h4{
+   color:#1D3557;
+}
+
+p{
+   color: #1D3557;
+}
+.hero {
+   background-image: url('images/as.jpg');
+   height: 450px;
+   width: 100%;
+   background-repeat: no-repeat; 
+   background-size: 100% 100%;
+   
+  
+   
+}
+
+.images{
+   display: flex;
+   justify-content: space-between;
+
+}
+.activity{
+   padding: 2em 2em;
+   background-color: #F1FAEE;
+   
+}
+.image
+{
+   
+   width: 150px;
+   border-radius: 50%;
+   height: 150px;
+}
+.guide-card{
+   background-color: #A8DADC;
+   display: flex;
+   width: 30%;
+   margin: 2em auto;
+   padding: 1.6em;
+   border-radius: 10px;
+}
+.my-image{
+   width: 180px;
+   height: 200px;
+   top: 73px;
+   border-radius: 10px;
+}
